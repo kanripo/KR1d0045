@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 宮室考
-#+DATE: 2015-09-23 09:37:53
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:09:33.385986
+#+PROPERTY: ID KR1d0045
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1d0045_WYG_000-1a>¶
 欽定四庫全書¶
 　宫室考¶
@@ -79,4 +81,3 @@
 　　　　六年十一月恭校上¶
 　　　　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　　　總　校　官　(臣/)陸　費　墀¶
-
